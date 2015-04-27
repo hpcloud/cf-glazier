@@ -1,5 +1,5 @@
 destination,url
 cloudbaseinit.msi,https://region-b.geo-1.objects.hpcloudsvc.com/v1/54026737306152/cloudbase-init/2015_04_21_x64_beta/CloudbaseInitSetup_Beta_x64.msi
-sdelete.zip,http://download.sysinternals.com/files/SDelete.zip
+sdelete.zip,https://download.sysinternals.com/files/SDelete.zip
 pswindowsupdate.zip,https://gallery.technet.microsoft.com/scriptcenter/2d191bcd-3308-4edd-9de2-88dff796b0bc/file/41459/43/PSWindowsUpdate.zip
-ultradefrag.zip,http://download2.polytechnic.edu.na/pub4/sourceforge/u/project/project/ul/ultradefrag/stable-release/6.0.2/ultradefrag-portable-6.0.2.bin.amd64.zip
+ultradefrag.zip,https://sourceforge.net/projects/ultradefrag/files/stable-release/6.0.2/ultradefrag-portable-6.0.2.bin.amd64.zip
